@@ -24,7 +24,7 @@ Bu proje, mikroişlemcilerin bellek yönetimi, kesme (interrupt) servisleri ve v
 
 ## 🎮 Nasıl Çalıştırılır?
 1.  Bilgisayarınıza **Emu8086** emülatörünü kurun.
-2.  `labirent.asm` dosyasındaki kodları emülatöre yapıştırın.
+2.  `MazeGame.asm` dosyasındaki kodları emülatöre yapıştırın.
 3.  **Emulate** butonuna basın.
 4.  Açılan pencerede **Run** diyerek oyunu başlatın.
 
